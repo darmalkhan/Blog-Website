@@ -1,0 +1,33 @@
+{
+  "naz": {
+    "Home": "Uy",
+    "Articles": "Maqolalar",
+    "About": "Haqida",
+    "Contact": "Aloqa"
+  },
+  "title": {
+    "Contact Us": "Biz bilan bog'lanish ",
+    "About Us": "Biz haqimizda",
+    "Articles Us": "Maqolalar",
+    "welcome to": "ga Xush kelibsiz"
+  },
+   "general": {
+    "Address": "Manzil",
+    "Phone": "Telefon",
+    "Email": "E-pochta",
+    "Enter Name" : "Ismni kiriting",
+    "Enter Email" : "E-pochtani kiriting",
+    "Phone Number" : "Telefon raqami",
+    "Enter Message" : "Xabarni kiriting",
+    "Made by": "Tamonidan qilingan",
+    "Copy Right": "Mualliflik huquqi 2021 Barcha huquqlar himoyalangan",
+    "About Us description": "Lorem Ipsum - bu matbaa va matbaa sanoatining oddiy matni. Lorem Ipsum 1500 -yillardan buyon sanoatning standart qo'g'irchoq matni bo'lib, noma'lum printer turini olib, uni namunali kitob qilish uchun chalkashtirib yuborgan. U nafaqat besh asr davomida, balki elektron yozish tizimiga ham o'tdi va deyarli o'zgarmadi. U 1960 -yillarda Lorem Ipsum parchalarini o'z ichiga olgan Letraset varaqlari chiqarilishi bilan mashhur bo'lgan va yaqinda Lorem Ipsum versiyalarini o'z ichiga olgan Aldus PageMaker kabi ish stoli nashriyot dasturlari bilan mashhur bo'lgan.",
+    "View More": "Ko'proq ko'rish",
+    "Loading": "Yuklanmoqda...",
+    "View All": "Hammasini ko'rish",
+    "Submit": "Yuborish",
+    "Submitting": "Yuborilmoqda...",
+    "Your message has submitted successfully,": "Sizning xabaringiz muvaffaqiyatli topshirildi,",
+    "Home Description": "Lorem Ipsum - bu matbaa va matbaa sanoatining oddiy matni. Lorem Ipsum 1500 -yillardan buyon sanoatning standart qo'g'irchoq matni bo'lib, noma'lum printer turini olib, uni namunali kitob qilish uchun chalkashtirib yuborgan."
+  }
+}

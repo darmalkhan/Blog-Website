@@ -1,0 +1,34 @@
+{
+  "naz": {
+    "Home": "Home",
+    "Articles": "Articles",
+    "About": "About",
+    "Contact": "Contact"
+  },
+  "title": {
+    "Contact Us": "Contact Us",
+    "About Us": "About Us",
+    "Articles Us": "Articles Us",
+    "welcome to": "welcome to"
+  },
+  "general": {
+    "Address": "Address",
+    "Phone": "Phone",
+    "Email": "Email",
+    "Enter Name" : "Enter Name",
+    "Enter Email" : "Enter Email",
+    "Phone Number" : "Phone Number",
+    "Enter Message" : "Enter Message",
+    "Made by": "Made by",
+    "Copy Right": "Copyright &copy;2021 All rights reserved",
+    "About Us description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "View More": "View More",
+    "Loading": "Loading...",
+    "View All": "View All",
+    "Submit": "Submit",
+    "Submitting": "Submitting...",
+    "Your message has submitted successfully,": "Your message has submitted successfully,",
+    "Home Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+
+  }
+}
